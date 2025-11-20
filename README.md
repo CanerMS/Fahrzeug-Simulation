@@ -380,20 +380,38 @@ Dieses Projekt demonstriert folgende C++-Konzepte:
 ## 👤 Autor
 
 **Caner**
-- Projekt: Informatik 1 Praktikum
-- Universität: RWTH Aachen
-- Semester: WS 2024/25
 
-## 📄 Lizenz
 
-Dieses Projekt ist Teil eines Universitätspraktikums und nur für Bildungszwecke bestimmt.
+## ⚠️ Disclaimer / Haftungsausschluss
 
-## 🙏 Danksagungen
+This project was created for educational purposes as part of my Computer Science 
+studies at RWTH Aachen University. 
 
-- Aufgabenstellung basiert auf dem Informatik 1 Praktikum (CE)
-- Konzepte aus dem offiziellen C++ Skript
+**Important Notes:**
+- This implementation is my own work and interpretation
+- No official course materials, scripts, or assignment texts are included
+- This is a learning project demonstrating C++ OOP concepts
+- Not intended for commercial use
 
----
+**Wichtige Hinweise:**
+- Diese Implementierung ist meine eigene Arbeit und Interpretation
+- Keine offiziellen Kursmaterialien, Skripte oder Aufgabenstellungen enthalten
+- Dies ist ein Lernprojekt zur Demonstration von C++ OOP-Konzepten
+- Nicht für kommerzielle Zwecke gedacht
 
+## 📚 Concepts Demonstrated
+
+- Object-Oriented Programming in C++
+- Inheritance and Polymorphism
+- Smart Pointers (unique_ptr, shared_ptr)
+- Operator Overloading
+- Virtual Functions
+- STL Containers
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 **Letztes Update**: November 2024  
 **Version**: 1.0 (Aufgabenblock 1 komplett)
