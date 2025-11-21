@@ -4,7 +4,7 @@ A C++ project demonstrating object-oriented programming concepts through a vehic
 
 ## ⚠️ Disclaimer / Haftungsausschluss
 
-This project was created for educational purposes as part of my studies.
+This project was created for educational purposes as part of my Computer Engineering studies at RWTH Aachen University.
 
 **Important Notes:**
 - This implementation is my own work and interpretation
