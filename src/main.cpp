@@ -24,7 +24,7 @@ double dGlobaleZeit = 0.0; // h
 
 // -------------------------------------------------------------------------------------------------------/
 
-void vAufgabe1()
+void testStaticVsDynamic()
 {
     cout << "== Statisches und dynamisches Erzeugen-Loeschen=\n";
     // Statische Speicherverwaltung
@@ -83,7 +83,7 @@ void vAufgabe1()
 
 // -------------------------------------------------------------------------------------------------------/
 
-void vAufgabe1a()
+void testBasicSimulation()
 {
     std::vector<std::unique_ptr<Fahrzeug>> fahrzeuge;
     fahrzeuge.reserve(3);
@@ -132,7 +132,7 @@ void vAufgabe1a()
 
 // -------------------------------------------------------------------------------------------------------/
 
-void vAufgabe2()
+void testTankingAndFatigue()
 {
     int nPKW{}, nRad{};
     cout << "Anzahl PKW: ";   std::cin >> nPKW;
@@ -196,7 +196,7 @@ void vAufgabe2()
 
 // -------------------------------------------------------------------------------------------------------/
 
-void vAufgabe3() {
+void testOperators() {
     using std::cout;
 
     std::vector<std::unique_ptr<Fahrzeug>> v;
